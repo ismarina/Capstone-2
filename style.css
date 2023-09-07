@@ -1,6 +1,5 @@
 body {
   font-size: 1.5em; 
-  background-color: yellow;
 }
 .container-fluid {
   padding: 0;  
@@ -247,7 +246,6 @@ footer {
     height: 100%;
     flex-wrap: wrap;
     justify-content: center;
-    border: black solid 1px;
   }  
   .hero-text {
     align-self: end;
