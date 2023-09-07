@@ -24,7 +24,7 @@ header {
 }
 .hero-text {
   grid-area: 2/1/2/span 5;
-  padding-bottom: 40px;
+  padding-bottom: 35px;
 }
 h1 {  
   font-family: 'Grandiflora One', serif;
