@@ -185,35 +185,12 @@ color: #FF6666;
   text-decoration: none;
   color: #FF6666;
 }
-.contact-widgets .linked::before{
-  content: "" / "Linked In Icon";
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/76/Font_Awesome_5_brands_linkedin.svg);
-  background-size: 25px;
-  filter:  grayscale(1);
-  display:inline-block;
-  height: 30px;
-  width: 25px;  
-}
-.contact-widgets .git::before{
-  content: "" / "Github Icon";
-  background: url(https://avatars.githubusercontent.com/u/130631260?v=4);
-  background-size: 26px;
-  height: 25px;
-  width: 25px;
-}
-.contact-widgets .twit::before{
-  content: "" / "Twitter Icon";
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/19/Twitter_icon.svg);
-  background-size: 21px;
-  display:inline-block;
-  height: 30px;
-  width: 21px;  
-}
 .emailme .at-sign{
   font-weight: 600;
-  font-size: 2rem;
+  font-size: 2.8rem;
   margin: 0;
-  padding: 0;
+  padding-bottom: 55px;
+  padding-right: 40px;
   display: block;
   color: #FF6666;
   height: 35px;
